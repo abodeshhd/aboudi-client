@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "aboudiclient",
+  "version": "1.0.0",
+  "name": "ABN",
+  "description": "Client-side utility mod",
+  "authors": ["Aboudi_DEV"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": { "client": ["aboudi.client.AboudiClient"] },
+  "depends": { "fabricloader": ">=0.16.0", "fabric-api": "*", "minecraft": "~1.21.11", "java": ">=21" }
+}
