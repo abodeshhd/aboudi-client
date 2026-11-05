@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "name": "ABN",
   "description": "Client-side utility mod",
+  "icon": "icon.png",
   "authors": ["Aboudi_DEV"],
   "license": "MIT",
   "environment": "client",

@@ -4,7 +4,7 @@ group = 'aboudi'
 sourceSets {
     main {
         java { srcDirs = ['.']; include '*.java' }
-        resources { srcDirs = ['.']; include 'fabric.mod.json' }
+        resources { srcDirs = ['.']; include 'fabric.mod.json', 'icon.png' }
     }
 }
 dependencies {
